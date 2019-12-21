@@ -24,3 +24,7 @@ The computer is trained with unlabeled data.
 - k-means clustering
 - Association Rules
  
+#### Ressources
+- This site was built using [A Brief Introduction to Supervised Learning](https://towardsdatascience.com/a-brief-introduction-to-supervised-learning-54a3e3932590).
+- [Types of Machine Learning Algorithms You Should Know](https://towardsdatascience.com/types-of-machine-learning-algorithms-you-should-know-953a08248861).
+- [Intro to Machine Learning](https://classroom.udacity.com/courses/ud120)
