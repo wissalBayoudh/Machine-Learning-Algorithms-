@@ -1,7 +1,7 @@
 # Machine-Learning-Algorithms-
 In this Curriculum you’ll find the Types of Machine Learning Algorithms You Should Know along with their code from scratch and examples with python or R. But before we get there let’s begin with describing each type: 
 
-Types of machine learning Algorithms
+## Types of machine learning Algorithms
 There some variations of how to define the types of Machine Learning Algorithms but commonly they can be divided into categories according to their purpose and the main categories are the following:
 
 -	Supervised learning
