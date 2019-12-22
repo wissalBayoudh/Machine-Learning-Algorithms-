@@ -24,8 +24,13 @@ The computer is trained with unlabeled data.
 - k-means clustering
 - Association Rules
  
+## Reinforcement Learning
+method aims at using observations gathered from the interaction with the environment to take actions that would maximize the reward or minimize the risk. Reinforcement learning algorithm (called the agent) continuously learns from the environment in an iterative fashion. In the process, the agent learns from its experiences of the environment until it explores the full range of possible states.
+### List of Common Algorithms
+- Q-Learning
+- Temporal Difference (TD)
+- Deep Adversarial Networks
 #### Resources
 This site was built using 
-- [A Brief Introduction to Supervised Learning](https://towardsdatascience.com/a-brief-introduction-to-supervised-learning-54a3e3932590).
 - [Types of Machine Learning Algorithms You Should Know](https://towardsdatascience.com/types-of-machine-learning-algorithms-you-should-know-953a08248861).
 - [Udacity-Intro to Machine Learning](https://classroom.udacity.com/courses/ud120)
