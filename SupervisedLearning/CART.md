@@ -22,5 +22,5 @@ Since we care about accuracy on new data, which we estimate from our validation 
 
 
 Ressources :
-- [sklearn.tree.DecisionTreeClassifier] {https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html}
-- [Machine Learning Basics: Decision Tree From Scratch]{https://towardsdatascience.com/machine-learning-basics-descision-tree-from-scratch-part-ii-dee664d46831}
+- [sklearn.tree.DecisionTreeClassifier] (https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
+- [Machine Learning Basics: Decision Tree From Scratch](https://towardsdatascience.com/machine-learning-basics-descision-tree-from-scratch-part-ii-dee664d46831)
