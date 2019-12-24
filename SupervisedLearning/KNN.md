@@ -23,3 +23,6 @@ The Euclidean distance is the most common distance metric used in low dimensiona
 1. The distance function or distance metric used to determine the nearest neighbors.
 2. The decision rule used to derive a classification from the K-nearest neighbors.
 3. The number of neighbors used to classify the new example.
+
+Ressources: 
+-[Towards Data Science K-Nearest Neighbors (KNN) Algorithm](https://towardsdatascience.com/k-nearest-neighbors-knn-algorithm-bd375d14eec7)
