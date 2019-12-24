@@ -9,11 +9,11 @@ K-Nearest Neighbor (K-NN) is a simple algorithm that stores all the available ca
 1. Divide the data into training and test data.
 2. Select a value K.
 3. Determine which distance function is to be used.
-3.1. The Euclidean distance
+- The Euclidean distance
 The Euclidean distance is the most common distance metric used in low dimensional data sets. It is also known as the L2 norm. The Euclidean distance is the usual manner in which distance is measured in the real world.
-3.2. Hamming Distance: Calculate the distance between binary vectors.
-3.3. Manhattan Distance: Calculate the distance between real vectors using the sum of their absolute difference. Also called City Block Distance.
-3.4. Minkowski Distance: Generalization of Euclidean and Manhattan distance.
+- Hamming Distance: Calculate the distance between binary vectors.
+- Manhattan Distance: Calculate the distance between real vectors using the sum of their absolute difference. Also called City Block Distance.
+- Minkowski Distance: Generalization of Euclidean and Manhattan distance.
 4. Choose a sample from the test data that needs to be classified and compute the distance to its n training samples.
 5. Sort the distances obtained and take the k-nearest data samples.
 6. Assign the test class to the class based on the majority vote of its k neighbors.
