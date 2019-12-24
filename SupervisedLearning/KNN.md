@@ -25,4 +25,4 @@ The Euclidean distance is the most common distance metric used in low dimensiona
 3. The number of neighbors used to classify the new example.
 
 Ressources: 
--[Towards Data Science K-Nearest Neighbors (KNN) Algorithm](https://towardsdatascience.com/k-nearest-neighbors-knn-algorithm-bd375d14eec7)
+- [Towards Data Science K-Nearest Neighbors (KNN) Algorithm](https://towardsdatascience.com/k-nearest-neighbors-knn-algorithm-bd375d14eec7)
